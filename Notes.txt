@@ -1,2 +1,3 @@
-Original throne room dimensions were 80 by 80
-Now they are 300 by 400
+throne room dimensions are 104x78 (4:3 ratio)
+
+Scale for throne room (from original dimensions): 3.806395
