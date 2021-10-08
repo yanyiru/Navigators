@@ -1,3 +1,5 @@
-throne room dimensions are 104x78 (4:3 ratio)
+throne room dimensions are 120x90 (4:3 ratio)
 
-Scale for throne room (from original dimensions): 3.806395
+Scale for throne room (from original dimensions): 3.3
+
+Scale for player: 1.7
