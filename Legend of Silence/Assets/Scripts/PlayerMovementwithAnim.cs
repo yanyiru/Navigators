@@ -14,10 +14,13 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private Vector2 lastMove;
 
+	private Rigidbody2D Player;
+
 	// Use this for initialization
 	void Start()
 	{
 		anim = GetComponent<Animator>();
+		Player = GetComponent<Rigidbody2D>();
 	}
 
 	// Update is called once per frame
@@ -46,6 +49,13 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		anim.SetBool("PlayerMoving", playerMoving);
 		anim.SetFloat("LastMoveX", lastMove.x);
 		anim.SetFloat("LastMoveY", lastMove.y);
+
+		
+
+	}
+
+	private void OnCollisionEnter2D(Collision2D other)
+	{
 	}
 
 
