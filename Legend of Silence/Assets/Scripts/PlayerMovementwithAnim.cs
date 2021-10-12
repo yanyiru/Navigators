@@ -14,12 +14,15 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private Vector2 lastMove;
 
+	private SpriteRenderer renderee;
+
 	private Rigidbody2D Player;
 
 	// Use this for initialization
 	void Start()
 	{
 		anim = GetComponent<Animator>();
+		renderee = GetComponent<SpriteRenderer>();
 		Player = GetComponent<Rigidbody2D>();
 	}
 
@@ -50,13 +53,15 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		anim.SetFloat("LastMoveX", lastMove.x);
 		anim.SetFloat("LastMoveY", lastMove.y);
 
-		
+		if (transform.position.y < 10)
+		{
+			renderee.sortingOrder = 1;
+		}
+
+
 
 	}
 
-	private void OnCollisionEnter2D(Collision2D other)
-	{
-	}
 
 
 }

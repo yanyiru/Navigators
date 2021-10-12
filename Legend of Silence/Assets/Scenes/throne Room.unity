@@ -280,8 +280,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1435203971
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 4272832008076673747, guid: 515ecc69af60c40eeaaa04387880d25f,
     type: 3}
@@ -480,8 +480,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1435203971
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 15dcc5fb35cc8444cb97dca86a8e8b5b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -544,7 +544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1284529836}
   - component: {fileID: 1284529835}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Throne Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -669,8 +669,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1435203971
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b9a9131d961dc472686334f595583f45, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
