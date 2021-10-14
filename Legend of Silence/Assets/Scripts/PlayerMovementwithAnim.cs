@@ -16,14 +16,16 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private SpriteRenderer renderee;
 
-	private Rigidbody2D Player;
+	//private Rigidbody2D Player;
+
+	//private bool pedestalTouching;
 
 	// Use this for initialization
 	void Start()
 	{
 		anim = GetComponent<Animator>();
 		renderee = GetComponent<SpriteRenderer>();
-		Player = GetComponent<Rigidbody2D>();
+		//Player = GetComponent<Rigidbody2D>();
 	}
 
 	// Update is called once per frame
@@ -53,15 +55,38 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		anim.SetFloat("LastMoveX", lastMove.x);
 		anim.SetFloat("LastMoveY", lastMove.y);
 
-		if (transform.position.y < 10)
+		if (transform.position.y < -0.6)
 		{
 			renderee.sortingOrder = 1;
 		}
+		if(transform.position.y > -0.6)
+        {
+			renderee.sortingOrder = 0;
+        }
+
+		
 
 
 
 	}
 
+	//private void OnCollisionEnter2D(Collision2D target)
+	//{
+	//	if (target.gameObject.tag.Equals("pedestal") == true)
+	//	{
+	//		pedestalTouching = true;
+	//		print(pedestalTouching);
+	//	}
+	//}
+
+	//private void OnCollisionExit2D(Collision2D target)
+	//{
+	//	if(target.gameObject.tag.Equals("pedestal") == true)
+	//	{
+	//		pedestalTouching = false;
+	//		print(pedestalTouching);
+	//	}
+	//}
 
 
 }
