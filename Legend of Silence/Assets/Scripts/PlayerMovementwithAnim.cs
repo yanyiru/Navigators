@@ -16,7 +16,7 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private SpriteRenderer renderee;
 
-	//private Rigidbody2D Player;
+	private Rigidbody2D Player;
 
 	//private bool pedestalTouching;
 
@@ -25,7 +25,7 @@ public class PlayerMovementwithAnim : MonoBehaviour
 	{
 		anim = GetComponent<Animator>();
 		renderee = GetComponent<SpriteRenderer>();
-		//Player = GetComponent<Rigidbody2D>();
+		Player = GetComponent<Rigidbody2D>();
 	}
 
 	// Update is called once per frame
@@ -57,7 +57,7 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 		if (transform.position.y < -0.6)
 		{
-			renderee.sortingOrder = 1;
+			renderee.sortingOrder = 2;
 		}
 		if(transform.position.y > -0.6)
         {

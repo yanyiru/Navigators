@@ -12,7 +12,7 @@ public class Pedestal : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-		camera = GetComponent<Camera>();
+		//camera = GetComponent<Camera>();
     }
 
 	// Update is called once per frame
@@ -20,16 +20,16 @@ public class Pedestal : MonoBehaviour
 	{
 		//if (pedestalTouching == true && )
 
-		if (Input.GetMouseButtonDown(0))
-		{ // if left button pressed...
-			Ray ray = camera.ScreenPointToRay(Input.mousePosition);
-			RaycastHit hit;
-			if (Physics.Raycast(ray, out hit))
-			{
-				// the object identified by hit.transform was clicked
-				// do whatever you want
-			}
-		}
+		//if (Input.GetMouseButtonDown(0))
+		//{ // if left button pressed...
+		//	Ray ray = camera.ScreenPointToRay(Input.mousePosition);
+		//	RaycastHit hit;
+		//	if (Physics.Raycast(ray, out hit))
+		//	{
+		//		// the object identified by hit.transform was clicked
+		//		// do whatever you want
+		//	}
+		//}
 	}
 
 	private void OnCollisionEnter2D(Collision2D target)
