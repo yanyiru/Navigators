@@ -18,7 +18,10 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private Rigidbody2D Player;
 
-	//private bool pedestalTouching;
+
+
+
+
 
 	// Use this for initialization
 	void Start()
@@ -67,26 +70,8 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		
 
 
-
 	}
 
-	//private void OnCollisionEnter2D(Collision2D target)
-	//{
-	//	if (target.gameObject.tag.Equals("pedestal") == true)
-	//	{
-	//		pedestalTouching = true;
-	//		print(pedestalTouching);
-	//	}
-	//}
-
-	//private void OnCollisionExit2D(Collision2D target)
-	//{
-	//	if(target.gameObject.tag.Equals("pedestal") == true)
-	//	{
-	//		pedestalTouching = false;
-	//		print(pedestalTouching);
-	//	}
-	//}
-
+    
 
 }
