@@ -14,8 +14,8 @@ public class Pedestal : MonoBehaviour
 	// Start is called before the first frame update
 	void Start()
     {
-		PWOCrown = GetComponent<SpriteRenderer>();
-		PWCrown = GetComponent<Sprite>();
+		PWOCrown = gameObject.GetComponent<SpriteRenderer>();
+		Resources.LoadAll<Sprite>("Pedestal with Crown");
 	}
 
 	// Update is called once per frame
@@ -47,7 +47,6 @@ public class Pedestal : MonoBehaviour
 		{
 			pedestalTouching = true;
 			print(pedestalTouching);
-
 
 		}
 	}
