@@ -18,9 +18,9 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private Rigidbody2D Player;
 
+	private bool pedestalTouching;
 
-
-
+	private Animator animator;
 
 
 	// Use this for initialization
@@ -29,11 +29,32 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		anim = GetComponent<Animator>();
 		renderee = GetComponent<SpriteRenderer>();
 		Player = GetComponent<Rigidbody2D>();
+
+		animator = gameObject.GetComponent<Animator>();
+
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
+		if (Input.GetMouseButtonDown(1))
+		{
+			Debug.Log("Mouse Clicked");
+			Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+			Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
+
+			RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
+
+			if (hit.collider != null)
+			{
+				if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
+				{
+					Debug.Log("Something was clicked!");
+					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("player1");
+				}
+
+			}
+		}
 
 		playerMoving = false;
 
@@ -67,11 +88,28 @@ public class PlayerMovementwithAnim : MonoBehaviour
 			renderee.sortingOrder = 0;
         }
 
-		
-
 
 	}
 
-    
+	private void OnCollisionEnter2D(Collision2D target)
+	{
+		if (target.gameObject.name.Equals("Pedestal") == true)
+		{
+			pedestalTouching = true;
+			print(pedestalTouching);
+
+		}
+	}
+
+	private void OnCollisionExit2D(Collision2D target)
+	{
+		if (target.gameObject.name.Equals("Pedestal") == true)
+		{
+			pedestalTouching = false;
+			print(pedestalTouching);
+		}
+	}
+
+
 
 }
