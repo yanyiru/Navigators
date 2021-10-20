@@ -22,6 +22,8 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 	private Animator animator;
 
+	private bool shifted;
+
 
 	// Use this for initialization
 	void Start()
@@ -31,6 +33,7 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		Player = GetComponent<Rigidbody2D>();
 
 		animator = gameObject.GetComponent<Animator>();
+		shifted = false;
 
 	}
 
@@ -51,6 +54,11 @@ public class PlayerMovementwithAnim : MonoBehaviour
 				{
 					Debug.Log("Something was clicked!");
 					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("player1");
+                    if (shifted == false) {
+						transform.position = new Vector3(transform.position.x, transform.position.y-0.08f, transform.position.z);
+						shifted = true;
+					}
+					
 				}
 
 			}

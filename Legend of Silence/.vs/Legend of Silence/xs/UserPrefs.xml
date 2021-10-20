@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EAAAE9C2-71D4-C206-4C91-CB25619B08FE}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovementwithAnim.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovementwithAnim.cs" Line="100" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovementwithAnim.cs" Line="62" Column="6" />
       <File FileName="Assets/Scripts/Pedestal.cs" Line="60" Column="4" />
     </Files>
     <Pads>
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="091eb799-85ce-4017-95af-66fe03f03928" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c5e461c5-4bb9-4987-a833-f83e32283661" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
