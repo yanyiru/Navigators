@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{EAAAE9C2-71D4-C206-4C91-CB25619B08FE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovementwithAnim.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pedestal.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovementwithAnim.cs" Line="62" Column="6" />
       <File FileName="Assets/Scripts/Pedestal.cs" Line="60" Column="4" />
@@ -8,10 +8,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Legend of Silence" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="PlayerMovementwithAnim.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -20,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c5e461c5-4bb9-4987-a833-f83e32283661" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="72c072db-2a0f-4c41-9eb1-cf0dfb25356b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

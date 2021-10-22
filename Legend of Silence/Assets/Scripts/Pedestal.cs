@@ -9,6 +9,7 @@ public class Pedestal : MonoBehaviour
 
 	public SpriteRenderer PWOCrown;
 	public Sprite PWCrown;
+	private Animator animator;
 
 
 	// Start is called before the first frame update
@@ -16,6 +17,7 @@ public class Pedestal : MonoBehaviour
     {
 		PWOCrown = gameObject.GetComponent<SpriteRenderer>();
 		Resources.LoadAll<Sprite>("Pedestal with Crown");
+		animator = gameObject.GetComponent<Animator>();
 	}
 
 	// Update is called once per frame
@@ -34,11 +36,16 @@ public class Pedestal : MonoBehaviour
 				if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
 				{
 					Debug.Log("Something was clicked!");
-					ChangeSprite(PWCrown);
+					//ChangeSprite(PWCrown);
+					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("Disappearing Pedestal");
+					
+					
+
 				}
 
 			}
 		}
+
 	}
 
 	private void OnCollisionEnter2D(Collision2D target)
@@ -63,5 +70,19 @@ public class Pedestal : MonoBehaviour
 	private void ChangeSprite(Sprite newsprite)
 	{
 		PWOCrown.sprite = newsprite;
+	}
+
+	IEnumerator WaitCoroutine()
+	{
+		//Print the time of when the function is first called.
+		Debug.Log("Started Coroutine at timestamp : " + Time.time);
+
+		//yield on a new YieldInstruction that waits for 5 seconds.
+		yield return new WaitForSeconds(2f);
+
+		//After we have waited 5 seconds print the time again.
+		Debug.Log("Finished Coroutine at timestamp : " + Time.time);
+
+		
 	}
 }
