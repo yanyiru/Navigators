@@ -10,7 +10,10 @@ public class Pedestal : MonoBehaviour
 	public SpriteRenderer PWOCrown;
 	public Sprite PWCrown;
 	private Animator animator;
-
+	public float normalizedTime;
+	public float counter;
+	public bool counterCheck;
+	
 
 	// Start is called before the first frame update
 	void Start()
@@ -18,11 +21,15 @@ public class Pedestal : MonoBehaviour
 		PWOCrown = gameObject.GetComponent<SpriteRenderer>();
 		Resources.LoadAll<Sprite>("Pedestal with Crown");
 		animator = gameObject.GetComponent<Animator>();
+		normalizedTime = animator.GetCurrentAnimatorStateInfo(8).normalizedTime;
+		counter = 0.0f;
+		counterCheck = false;
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
+		print((int)gameObject.layer + normalizedTime + gameObject.name);
 		if (Input.GetMouseButtonDown(1))
 		{
 			Debug.Log("Mouse Clicked");
@@ -35,15 +42,26 @@ public class Pedestal : MonoBehaviour
 			{
 				if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
 				{
+					counterCheck = true;
+					
+					//counter += Time.deltaTime;
 					Debug.Log("Something was clicked!");
 					//ChangeSprite(PWCrown);
 					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("Disappearing Pedestal");
-					
-					
-
+					if (counter == 11.333f)
+					{
+						print("destroyed");
+						Destroy(gameObject);
+					}
 				}
 
 			}
+		}
+
+		if (counterCheck == true)
+        {
+			counter++;
+			print(counter);
 		}
 
 	}
@@ -72,17 +90,10 @@ public class Pedestal : MonoBehaviour
 		PWOCrown.sprite = newsprite;
 	}
 
-	IEnumerator WaitCoroutine()
-	{
-		//Print the time of when the function is first called.
-		Debug.Log("Started Coroutine at timestamp : " + Time.time);
-
-		//yield on a new YieldInstruction that waits for 5 seconds.
-		yield return new WaitForSeconds(2f);
-
-		//After we have waited 5 seconds print the time again.
-		Debug.Log("Finished Coroutine at timestamp : " + Time.time);
-
-		
+	public bool animationFinished()
+    {
+		return animator.GetCurrentAnimatorStateInfo(8).length > animator.GetCurrentAnimatorStateInfo(8).normalizedTime;
 	}
+
+
 }
