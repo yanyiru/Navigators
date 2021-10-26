@@ -1,15 +1,19 @@
-﻿<Properties StartupConfiguration="{EAAAE9C2-71D4-C206-4C91-CB25619B08FE}|">
+﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pedestal.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovementwithAnim.cs" Line="36" Column="19" />
-      <File FileName="Assets/Scripts/Pedestal.cs" Line="70" Column="3" />
+      <File FileName="Assets/Scripts/Pedestal.cs" Line="63" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Legend of Silence" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
-              <Node name="Scripts" expanded="True" />
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Pedestal.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

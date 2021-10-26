@@ -29,7 +29,17 @@ public class Pedestal : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-		print((int)gameObject.layer + normalizedTime + gameObject.name);
+		if (counterCheck == true)
+		{
+			counter++;
+			print(counter);
+		}
+		if (counter > 1370)
+		{
+			print("destroyed");
+			Destroy(gameObject);
+			counterCheck = false;
+		}
 		if (Input.GetMouseButtonDown(1))
 		{
 			Debug.Log("Mouse Clicked");
@@ -44,25 +54,14 @@ public class Pedestal : MonoBehaviour
 				{
 					counterCheck = true;
 					
-					//counter += Time.deltaTime;
 					Debug.Log("Something was clicked!");
-					//ChangeSprite(PWCrown);
 					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("Disappearing Pedestal");
-					if (counter == 11.333f)
-					{
-						print("destroyed");
-						Destroy(gameObject);
-					}
 				}
 
 			}
 		}
 
-		if (counterCheck == true)
-        {
-			counter++;
-			print(counter);
-		}
+		
 
 	}
 
