@@ -6,13 +6,11 @@ public class Pedestal : MonoBehaviour
 {
 
 	private bool pedestalTouching;
-
 	public SpriteRenderer PWOCrown;
 	public Sprite PWCrown;
 	private Animator animator;
-	public float normalizedTime;
-	public float counter;
-	public bool counterCheck;
+	private float counter;
+	private bool counterCheck;
 	
 
 	// Start is called before the first frame update
@@ -21,7 +19,6 @@ public class Pedestal : MonoBehaviour
 		PWOCrown = gameObject.GetComponent<SpriteRenderer>();
 		Resources.LoadAll<Sprite>("Pedestal with Crown");
 		animator = gameObject.GetComponent<Animator>();
-		normalizedTime = animator.GetCurrentAnimatorStateInfo(8).normalizedTime;
 		counter = 0.0f;
 		counterCheck = false;
 	}
