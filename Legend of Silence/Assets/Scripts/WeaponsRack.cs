@@ -10,7 +10,7 @@ public class WeaponsRack : MonoBehaviour
 
     private bool rackTouching;
     private bool changedOnce;
-    private bool changedTwice;
+    public bool changedTwice;
     public SpriteRenderer rack;
     public Sprite noBow;
     public Sprite emptyRack;

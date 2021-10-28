@@ -11,6 +11,7 @@ public class Pedestal : MonoBehaviour
 	private Animator animator;
 	private float counter;
 	private bool counterCheck;
+	private bool changedTwice;
 	
 
 	// Start is called before the first frame update
@@ -21,44 +22,51 @@ public class Pedestal : MonoBehaviour
 		animator = gameObject.GetComponent<Animator>();
 		counter = 0.0f;
 		counterCheck = false;
+		changedTwice = GameObject.Find("Weapons Rack").GetComponent<WeaponsRack>().changedTwice;
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
-		if (counterCheck == true)
+		changedTwice = GameObject.Find("Weapons Rack").GetComponent<WeaponsRack>().changedTwice;
+		if (changedTwice == true)
 		{
-			counter++;
-			print(counter);
-		}
-		if (counter > 1370)
-		{
-			print("destroyed");
-			Destroy(gameObject);
-			counterCheck = false;
-		}
-		if (Input.GetMouseButtonDown(1))
-		{
-			Debug.Log("Mouse Clicked");
-			Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-			Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
-
-			RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
-
-			if (hit.collider != null)
+			if (counterCheck == true)
 			{
-				if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
-				{
-					counterCheck = true;
-					
-					Debug.Log("Something was clicked!");
-					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("Disappearing Pedestal");
-				}
+				counter++;
+				print(counter);
+			}
+			if (counter > 800)
+			{
+				print("destroyed");
+				Destroy(gameObject);
+				counterCheck = false;
+			}
+			if (Input.GetMouseButtonDown(1))
+			{
+				Debug.Log("Mouse Clicked");
+				Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+				Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
 
+				RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
+
+				if (hit.collider != null)
+				{
+					if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
+					{
+						counterCheck = true;
+
+						Debug.Log("Something was clicked!");
+						animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("Disappearing Pedestal");
+					}
+
+				}
 			}
 		}
-
-		
+        else
+        {
+			Debug.Log("haven't gotten your weapons yet");
+        }
 
 	}
 
