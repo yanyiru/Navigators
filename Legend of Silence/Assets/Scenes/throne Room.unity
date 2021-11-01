@@ -178,6 +178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b43d159244b2fd458892411576c5bf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  changedTwice: 0
   rack: {fileID: 87594718}
   noBow: {fileID: -7296951411128973156, guid: b090bf9db3bacfc40bb68cb9d5f45e4e, type: 3}
   emptyRack: {fileID: -6342760140193153398, guid: b090bf9db3bacfc40bb68cb9d5f45e4e,
@@ -518,7 +519,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0008896589, y: -0.25669205}
+  m_Offset: {x: 0.0008896589, y: -0.2312488}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -529,7 +530,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.27814388, y: 0.12661588}
+  m_Size: {x: 0.27814388, y: 0.1775024}
   m_EdgeRadius: 0
 --- !u!50 &691590416
 Rigidbody2D:
@@ -872,7 +873,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.04, y: 0.78}
+  m_Size: {x: 1.2, y: 0.9}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

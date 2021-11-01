@@ -23,6 +23,7 @@ public class PlayerMovementwithAnim : MonoBehaviour
 	private Animator animator;
 
 	private bool shifted;
+	private bool changedTwice;
 
 
 	// Use this for initialization
@@ -34,35 +35,38 @@ public class PlayerMovementwithAnim : MonoBehaviour
 
 		animator = gameObject.GetComponent<Animator>();
 		shifted = false;
+		changedTwice = GameObject.Find("Weapons Rack").GetComponent<WeaponsRack>().changedTwice;
 
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
-		if (Input.GetMouseButtonDown(1))
-		{
-			Debug.Log("Mouse Clicked");
-			Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-			Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
-
-			RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
-
-			if (hit.collider != null)
+		changedTwice = GameObject.Find("Weapons Rack").GetComponent<WeaponsRack>().changedTwice;
+		if (changedTwice == true)
+        {
+			if (Input.GetMouseButtonDown(1))
 			{
-				if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
-				{
-					Debug.Log("Something was clicked!");
-					animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("player1");
-                    if (shifted == false) {
-						transform.position = new Vector3(transform.position.x, transform.position.y-0.08f, transform.position.z);
-						shifted = true;
-					}
-					
-				}
+				Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+				Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
 
+				RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
+
+				if (hit.collider != null)
+				{
+					if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
+					{
+						animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("player1");
+						if (shifted == false)
+						{
+							transform.position = new Vector3(transform.position.x, transform.position.y - 0.08f, transform.position.z);
+							shifted = true;
+						}
+					}
+				}
 			}
 		}
+			
 
 		playerMoving = false;
 
@@ -104,7 +108,6 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		if (target.gameObject.name.Equals("Pedestal") == true)
 		{
 			pedestalTouching = true;
-			print(pedestalTouching);
 
 		}
 	}
@@ -114,10 +117,6 @@ public class PlayerMovementwithAnim : MonoBehaviour
 		if (target.gameObject.name.Equals("Pedestal") == true)
 		{
 			pedestalTouching = false;
-			print(pedestalTouching);
 		}
 	}
-
-
-
 }

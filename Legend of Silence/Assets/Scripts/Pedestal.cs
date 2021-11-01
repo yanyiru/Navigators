@@ -34,17 +34,14 @@ public class Pedestal : MonoBehaviour
 			if (counterCheck == true)
 			{
 				counter++;
-				print(counter);
 			}
-			if (counter > 800)
+			if (counter > 1400)
 			{
-				print("destroyed");
 				Destroy(gameObject);
 				counterCheck = false;
 			}
 			if (Input.GetMouseButtonDown(1))
 			{
-				Debug.Log("Mouse Clicked");
 				Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 				Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
 
@@ -56,7 +53,6 @@ public class Pedestal : MonoBehaviour
 					{
 						counterCheck = true;
 
-						Debug.Log("Something was clicked!");
 						animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>("Disappearing Pedestal");
 					}
 
@@ -65,7 +61,23 @@ public class Pedestal : MonoBehaviour
 		}
         else
         {
-			Debug.Log("haven't gotten your weapons yet");
+			if (Input.GetMouseButtonDown(1))
+			{
+				Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+				Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
+
+				RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
+
+				if (hit.collider != null)
+				{
+					if (hit.collider.gameObject.name == "Pedestal" && pedestalTouching == true)
+					{
+						Debug.Log("you don't feel safe without your weapons!");
+					}
+
+				}
+			}
+			
         }
 
 	}
@@ -75,7 +87,6 @@ public class Pedestal : MonoBehaviour
 		if (target.gameObject.name.Equals("Player") == true)
 		{
 			pedestalTouching = true;
-			print(pedestalTouching);
 
 		}
 	}
@@ -85,7 +96,6 @@ public class Pedestal : MonoBehaviour
 		if (target.gameObject.name.Equals("Player") == true)
 		{
 			pedestalTouching = false;
-			print(pedestalTouching);
 		}
 	}
 

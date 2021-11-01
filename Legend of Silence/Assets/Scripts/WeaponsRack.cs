@@ -28,7 +28,6 @@ public class WeaponsRack : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1))
         {
-            Debug.Log("Mouse Clicked");
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
 
@@ -40,13 +39,11 @@ public class WeaponsRack : MonoBehaviour
                 {
                     if (changedOnce == false)
                     {
-                        Debug.Log("Something was clicked!");
                         ChangeSprite(noBow);
                         changedOnce = true;
                     }
                     else if(changedOnce==true && changedTwice == false)
                     {
-                        Debug.Log("Something was clicked!");
                         ChangeSprite(emptyRack);
                         changedTwice = true;
                     }
@@ -63,7 +60,6 @@ public class WeaponsRack : MonoBehaviour
         if (target.gameObject.name.Equals("Player") == true)
         {
             rackTouching = true;
-            print(rackTouching);
 
         }
     }
@@ -73,7 +69,6 @@ public class WeaponsRack : MonoBehaviour
         if (target.gameObject.name.Equals("Player") == true)
         {
             rackTouching = false;
-            print(rackTouching);
         }
     }
 
