@@ -35,10 +35,9 @@ public class Pedestal : MonoBehaviour
 			{
 				counter++;
 			}
-			if (counter > 1400)
+			if (counter > 1370)
 			{
 				Destroy(gameObject);
-				counterCheck = false;
 			}
 			if (Input.GetMouseButtonDown(1))
 			{

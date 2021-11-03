@@ -1,0 +1,3344 @@
+fileFormatVersion: 2
+guid: 95ff130f8942b4c948898478c9acd383
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -782737111492266671
+    second: Disappearing Pedestal Animation_0
+  - first:
+      213: 3061656746069580651
+    second: Disappearing Pedestal Animation_1
+  - first:
+      213: -4860507080226884799
+    second: Disappearing Pedestal Animation_2
+  - first:
+      213: 4669852005572056122
+    second: Disappearing Pedestal Animation_3
+  - first:
+      213: -8025644827512052237
+    second: Disappearing Pedestal Animation_4
+  - first:
+      213: -3331098779254130257
+    second: Disappearing Pedestal Animation_5
+  - first:
+      213: -3177458505855923377
+    second: Disappearing Pedestal Animation_6
+  - first:
+      213: 4832833282351961208
+    second: Disappearing Pedestal Animation_7
+  - first:
+      213: -8827199284212064501
+    second: Disappearing Pedestal Animation_8
+  - first:
+      213: 5182375455420311259
+    second: Disappearing Pedestal Animation_9
+  - first:
+      213: 3624145424232608386
+    second: Disappearing Pedestal Animation_10
+  - first:
+      213: 5985891115491638618
+    second: Disappearing Pedestal Animation_11
+  - first:
+      213: 6354864952972211765
+    second: Disappearing Pedestal Animation_12
+  - first:
+      213: -6203111013231090226
+    second: Disappearing Pedestal Animation_13
+  - first:
+      213: -8951027940551632560
+    second: Disappearing Pedestal Animation_14
+  - first:
+      213: -2256169319202319038
+    second: Disappearing Pedestal Animation_15
+  - first:
+      213: -8330698476121947433
+    second: Disappearing Pedestal Animation_16
+  - first:
+      213: -1263626639443902783
+    second: Disappearing Pedestal Animation_17
+  - first:
+      213: -3133427581970157164
+    second: Disappearing Pedestal Animation_18
+  - first:
+      213: 330147718387236711
+    second: Disappearing Pedestal Animation_19
+  - first:
+      213: 1914738883592928729
+    second: Disappearing Pedestal Animation_20
+  - first:
+      213: 2915170720519511941
+    second: Disappearing Pedestal Animation_21
+  - first:
+      213: 6495027190552320913
+    second: Disappearing Pedestal Animation_22
+  - first:
+      213: 990107492714391544
+    second: Disappearing Pedestal Animation_23
+  - first:
+      213: 6434976275732726459
+    second: Disappearing Pedestal Animation_24
+  - first:
+      213: 1152544748814498929
+    second: Disappearing Pedestal Animation_25
+  - first:
+      213: 5973166648630906551
+    second: Disappearing Pedestal Animation_26
+  - first:
+      213: 8120303951830028118
+    second: Disappearing Pedestal Animation_27
+  - first:
+      213: 1118160425772312132
+    second: Disappearing Pedestal Animation_28
+  - first:
+      213: 2348734928456831492
+    second: Disappearing Pedestal Animation_29
+  - first:
+      213: 2085301454966937204
+    second: Disappearing Pedestal Animation_30
+  - first:
+      213: -6310585194654794176
+    second: Disappearing Pedestal Animation_31
+  - first:
+      213: -8871311241555736519
+    second: Disappearing Pedestal Animation_32
+  - first:
+      213: -7161889304293199364
+    second: Disappearing Pedestal Animation_33
+  - first:
+      213: -6316045964704420444
+    second: Disappearing Pedestal Animation_34
+  - first:
+      213: 7662620726177820104
+    second: Disappearing Pedestal Animation_35
+  - first:
+      213: -7862482129603301143
+    second: Disappearing Pedestal Animation_36
+  - first:
+      213: 6573036901462756662
+    second: Disappearing Pedestal Animation_37
+  - first:
+      213: -4406740571749031969
+    second: Disappearing Pedestal Animation_38
+  - first:
+      213: -7801978973910633003
+    second: Disappearing Pedestal Animation_39
+  - first:
+      213: 2606343724817082921
+    second: Disappearing Pedestal Animation_40
+  - first:
+      213: -7405562679775694713
+    second: Disappearing Pedestal Animation_41
+  - first:
+      213: -8424679227024651667
+    second: Disappearing Pedestal Animation_42
+  - first:
+      213: -1906211751324568777
+    second: Disappearing Pedestal Animation_43
+  - first:
+      213: 5424598686030254926
+    second: Disappearing Pedestal Animation_44
+  - first:
+      213: -6409923526733375882
+    second: Disappearing Pedestal Animation_45
+  - first:
+      213: -2131483160109964471
+    second: Disappearing Pedestal Animation_46
+  - first:
+      213: -5249283388742051523
+    second: Disappearing Pedestal Animation_47
+  - first:
+      213: 2602835213069534367
+    second: Disappearing Pedestal Animation_48
+  - first:
+      213: 7024648805024435232
+    second: Disappearing Pedestal Animation_49
+  - first:
+      213: -4438890576362305742
+    second: Disappearing Pedestal Animation_50
+  - first:
+      213: -3765317591978315712
+    second: Disappearing Pedestal Animation_51
+  - first:
+      213: -3182457216444390901
+    second: Disappearing Pedestal Animation_52
+  - first:
+      213: 6557852933914340674
+    second: Disappearing Pedestal Animation_53
+  - first:
+      213: 5230521975342260114
+    second: Disappearing Pedestal Animation_54
+  - first:
+      213: -7377911882572822888
+    second: Disappearing Pedestal Animation_55
+  - first:
+      213: -1194066923051092409
+    second: Disappearing Pedestal Animation_56
+  - first:
+      213: 3273441405917954601
+    second: Disappearing Pedestal Animation_57
+  - first:
+      213: 8819299876406026637
+    second: Disappearing Pedestal Animation_58
+  - first:
+      213: 8686192192572617752
+    second: Disappearing Pedestal Animation_59
+  - first:
+      213: -2189640843625017447
+    second: Disappearing Pedestal Animation_60
+  - first:
+      213: -2671841737126417172
+    second: Disappearing Pedestal Animation_61
+  - first:
+      213: 4564376484638346471
+    second: Disappearing Pedestal Animation_62
+  - first:
+      213: -2139750521921086807
+    second: Disappearing Pedestal Animation_63
+  - first:
+      213: 5250278868416581051
+    second: Disappearing Pedestal Animation_64
+  - first:
+      213: -1521766707119067515
+    second: Disappearing Pedestal Animation_65
+  - first:
+      213: 3499805040985673689
+    second: Disappearing Pedestal Animation_66
+  - first:
+      213: -497256698879326
+    second: Disappearing Pedestal Animation_67
+  - first:
+      213: -8295330617425436830
+    second: Disappearing Pedestal Animation_68
+  - first:
+      213: 6193621054413037417
+    second: Disappearing Pedestal Animation_69
+  - first:
+      213: 472970760414678276
+    second: Disappearing Pedestal Animation_70
+  - first:
+      213: -7030318433376913284
+    second: Disappearing Pedestal Animation_71
+  - first:
+      213: 5443091071680654118
+    second: Disappearing Pedestal Animation_72
+  - first:
+      213: 3848255558218334992
+    second: Disappearing Pedestal Animation_73
+  - first:
+      213: 1174084478692051818
+    second: Disappearing Pedestal Animation_74
+  - first:
+      213: -7391713778944177302
+    second: Disappearing Pedestal Animation_75
+  - first:
+      213: 4971003968176342162
+    second: Disappearing Pedestal Animation_76
+  - first:
+      213: -3899896337487101418
+    second: Disappearing Pedestal Animation_77
+  - first:
+      213: 182855338412148293
+    second: Disappearing Pedestal Animation_78
+  - first:
+      213: 357166061398756340
+    second: Disappearing Pedestal Animation_79
+  - first:
+      213: -8410979026011416886
+    second: Disappearing Pedestal Animation_80
+  - first:
+      213: -280110800274361891
+    second: Disappearing Pedestal Animation_81
+  - first:
+      213: 5615783839170335627
+    second: Disappearing Pedestal Animation_82
+  - first:
+      213: -7131731954791899494
+    second: Disappearing Pedestal Animation_83
+  - first:
+      213: 2742152786799774712
+    second: Disappearing Pedestal Animation_84
+  - first:
+      213: 1005646985759209930
+    second: Disappearing Pedestal Animation_85
+  - first:
+      213: -7022859499340294670
+    second: Disappearing Pedestal Animation_86
+  - first:
+      213: -6830355656520471645
+    second: Disappearing Pedestal Animation_87
+  - first:
+      213: -1091468535681332830
+    second: Disappearing Pedestal Animation_88
+  - first:
+      213: -1419776768496729456
+    second: Disappearing Pedestal Animation_89
+  - first:
+      213: -2885431372470248721
+    second: Disappearing Pedestal Animation_90
+  - first:
+      213: 5060431542036892716
+    second: Disappearing Pedestal Animation_91
+  - first:
+      213: -8538199207968748526
+    second: Disappearing Pedestal Animation_92
+  - first:
+      213: 5616308891700192708
+    second: Disappearing Pedestal Animation_93
+  - first:
+      213: -3085105818942853058
+    second: Disappearing Pedestal Animation_94
+  - first:
+      213: 7800179464097897878
+    second: Disappearing Pedestal Animation_95
+  - first:
+      213: 8681867855962697973
+    second: Disappearing Pedestal Animation_96
+  - first:
+      213: -7499865334954940167
+    second: Disappearing Pedestal Animation_97
+  - first:
+      213: 1082373927989362587
+    second: Disappearing Pedestal Animation_98
+  - first:
+      213: 6090865824145936782
+    second: Disappearing Pedestal Animation_99
+  - first:
+      213: 6634803012473908412
+    second: Disappearing Pedestal Animation_100
+  - first:
+      213: 673777327858649383
+    second: Disappearing Pedestal Animation_101
+  - first:
+      213: 1792122463829024956
+    second: Disappearing Pedestal Animation_102
+  - first:
+      213: 7064191986724609750
+    second: Disappearing Pedestal Animation_103
+  - first:
+      213: -5915837539401493424
+    second: Disappearing Pedestal Animation_104
+  - first:
+      213: 8253252646551100878
+    second: Disappearing Pedestal Animation_105
+  - first:
+      213: -6339203944268339802
+    second: Disappearing Pedestal Animation_106
+  - first:
+      213: -9057530628980162232
+    second: Disappearing Pedestal Animation_107
+  - first:
+      213: -4515162657576617751
+    second: Disappearing Pedestal Animation_108
+  - first:
+      213: -5697164510508313646
+    second: Disappearing Pedestal Animation_109
+  - first:
+      213: -9006879868044896616
+    second: Disappearing Pedestal Animation_110
+  - first:
+      213: -6401522454908497651
+    second: Disappearing Pedestal Animation_111
+  - first:
+      213: -5650629834612974665
+    second: Disappearing Pedestal Animation_112
+  - first:
+      213: -6793578425637299936
+    second: Disappearing Pedestal Animation_113
+  - first:
+      213: -2079741422713336967
+    second: Disappearing Pedestal Animation_114
+  - first:
+      213: -2136927449246684658
+    second: Disappearing Pedestal Animation_115
+  - first:
+      213: -2412767920608403263
+    second: Disappearing Pedestal Animation_116
+  - first:
+      213: -1960824419772062557
+    second: Disappearing Pedestal Animation_117
+  - first:
+      213: 5819939420727345260
+    second: Disappearing Pedestal Animation_118
+  - first:
+      213: 175492504047889112
+    second: Disappearing Pedestal Animation_119
+  - first:
+      213: 4123038258245301932
+    second: Disappearing Pedestal Animation_120
+  - first:
+      213: 4008045985573201290
+    second: Disappearing Pedestal Animation_121
+  - first:
+      213: 682770779179264383
+    second: Disappearing Pedestal Animation_122
+  - first:
+      213: -5335488450023003651
+    second: Disappearing Pedestal Animation_123
+  - first:
+      213: -1223903547366044564
+    second: Disappearing Pedestal Animation_124
+  - first:
+      213: -3886220237967408864
+    second: Disappearing Pedestal Animation_125
+  - first:
+      213: -4361039312209860826
+    second: Disappearing Pedestal Animation_126
+  - first:
+      213: 5151888295652271563
+    second: Disappearing Pedestal Animation_127
+  - first:
+      213: 102567713838125217
+    second: Disappearing Pedestal Animation_128
+  - first:
+      213: -8015410636766799242
+    second: Disappearing Pedestal Animation_129
+  - first:
+      213: 5024063797488965373
+    second: Disappearing Pedestal Animation_130
+  - first:
+      213: -2183031241254923838
+    second: Disappearing Pedestal Animation_131
+  - first:
+      213: -3111982433167283814
+    second: Disappearing Pedestal Animation_132
+  - first:
+      213: -6298380666874621750
+    second: Disappearing Pedestal Animation_133
+  - first:
+      213: -2023355734332097545
+    second: Disappearing Pedestal Animation_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155fcf48eb82325f0800000000000000
+      internalID: -782737111492266671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd7a5d6903d7a20800000000000000
+      internalID: 3061656746069580651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433ec600920c8cb0800000000000000
+      internalID: -4860507080226884799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3494c938a5aec040800000000000000
+      internalID: 4669852005572056122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f561b21d8e2f9090800000000000000
+      internalID: -8025644827512052237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9f1d62f4f85c1d0800000000000000
+      internalID: -3331098779254130257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0ae5e25667e3d0800000000000000
+      internalID: -3177458505855923377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874164dc34ca11340800000000000000
+      internalID: 4832833282351961208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f15fef40d7f7580800000000000000
+      internalID: -8827199284212064501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6e701f40f7be740800000000000000
+      internalID: 5182375455420311259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282fdb1df0d8b4230800000000000000
+      internalID: 3624145424232608386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dbb034148221350800000000000000
+      internalID: 5985891115491638618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536fc755104013850800000000000000
+      internalID: 6354864952972211765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 351
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec52c02266f1ae9a0800000000000000
+      internalID: -6203111013231090226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d2dc338f87c380800000000000000
+      internalID: -8951027940551632560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459fc735f970b0e0800000000000000
+      internalID: -2256169319202319038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20dd7bfd9636c80800000000000000
+      internalID: -8330698476121947433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceb9333442b67ee0800000000000000
+      internalID: -1263626639443902783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f14f3734d384d0800000000000000
+      internalID: -3133427581970157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f70e5c99be49400800000000000000
+      internalID: 330147718387236711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3f22bed4829a10800000000000000
+      internalID: 1914738883592928729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5f283354c47820800000000000000
+      internalID: 2915170720519511941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bdf5351d8f22a50800000000000000
+      internalID: 6495027190552320913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a1b0d4819dbd00800000000000000
+      internalID: 990107492714391544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28d1d24d0ad4950800000000000000
+      internalID: 6434976275732726459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c74d4b759aeff00800000000000000
+      internalID: 1152544748814498929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be0bd37b63f4e250800000000000000
+      internalID: 5973166648630906551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 312
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f8705cb6d11b070800000000000000
+      internalID: 8120303951830028118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ee04abf0848f00800000000000000
+      internalID: 1118160425772312132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402d83a29f1689020800000000000000
+      internalID: 2348734928456831492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476d8e8ff9a70fc10800000000000000
+      internalID: 2085301454966937204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef2cb433c4c68a0800000000000000
+      internalID: -6310585194654794176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93804239d65c2e480800000000000000
+      internalID: -8871311241555736519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13fe08f9bdb9c90800000000000000
+      internalID: -7161889304293199364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_34
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ade0c0b8a5e858a0800000000000000
+      internalID: -6316045964704420444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdef50c3f8175a60800000000000000
+      internalID: 7662620726177820104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0732c092ad2e290800000000000000
+      internalID: -7862482129603301143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_37
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc8378c3e183b50800000000000000
+      internalID: 6573036901462756662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd8934ccc18d2c0800000000000000
+      internalID: -4406740571749031969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d57dfab57dc9b390800000000000000
+      internalID: -7801978973910633003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_40
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6a480fc79b2420800000000000000
+      internalID: 2606343724817082921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 273
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807416aaf72a3990800000000000000
+      internalID: -7405562679775694713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a459ef0e6851b80800000000000000
+      internalID: -8424679227024651667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733bf9ff286cb85e0800000000000000
+      internalID: -1906211751324568777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4352e1a3cb084b40800000000000000
+      internalID: 5424598686030254926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67653af73806b07a0800000000000000
+      internalID: -6409923526733375882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432be4eb537b62e0800000000000000
+      internalID: -2131483160109964471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39dba0e19cc627b0800000000000000
+      internalID: -5249283388742051523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9443ebf5d02f1420800000000000000
+      internalID: 2602835213069534367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8a57bed09c7160800000000000000
+      internalID: 7024648805024435232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237881ff984e562c0800000000000000
+      internalID: -4438890576362305742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_51
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0407a9f7997eebbc0800000000000000
+      internalID: -3765317591978315712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0224f4e504a5d3d0800000000000000
+      internalID: -3182457216444390901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da7379f7c220b50800000000000000
+      internalID: 6557852933914340674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f562a260c869840800000000000000
+      internalID: 5230521975342260114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 234
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960d1f8b346c9990800000000000000
+      internalID: -7377911882572822888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746fe7db572dd6fe0800000000000000
+      internalID: -1194066923051092409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228bc08d999d6d20800000000000000
+      internalID: 3273441405917954601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e3dcc282746a70800000000000000
+      internalID: 8819299876406026637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814ff0917cd8b8870800000000000000
+      internalID: 8686192192572617752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4b020145dc91e0800000000000000
+      internalID: -2189640843625017447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec648a9816bbead0800000000000000
+      internalID: -2671841737126417172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_62
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc30cca3ce75f30800000000000000
+      internalID: 4564376484638346471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aadfe8bc341e42e0800000000000000
+      internalID: -2139750521921086807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdc5bb40dcbcd840800000000000000
+      internalID: 5250278868416581051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee6271e3991eae0800000000000000
+      internalID: -1521766707119067515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df821b542ec19030800000000000000
+      internalID: 3499805040985673689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e9176fbb3efff0800000000000000
+      internalID: -497256698879326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_68
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5fe501c011ec80800000000000000
+      internalID: -8295330617425436830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 195
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f5ba5a88924f550800000000000000
+      internalID: 6193621054413037417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc9a39664509600800000000000000
+      internalID: 472970760414678276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_71
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7830b012aa4f6e90800000000000000
+      internalID: -7030318433376913284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b20afad7eb98b40800000000000000
+      internalID: 5443091071680654118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013c6809a00c76530800000000000000
+      internalID: 3848255558218334992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4db0ec9f2b4010800000000000000
+      internalID: 1174084478692051818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0ca42b7b5b6990800000000000000
+      internalID: -7391713778944177302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294453485cd8cf440800000000000000
+      internalID: 4971003968176342162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_77
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120c3f81f8c0e9c0800000000000000
+      internalID: -3899896337487101418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546075326f1a98200800000000000000
+      internalID: 182855338412148293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb8f77f3a8e4f400800000000000000
+      internalID: 357166061398756340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6145d9323364b80800000000000000
+      internalID: -8410979026011416886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_81
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd175e316b8dc1cf0800000000000000
+      internalID: -280110800274361891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_82
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839025e5a54fed40800000000000000
+      internalID: 5615783839170335627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_83
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9359929ff60d90800000000000000
+      internalID: -7131731954791899494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4c095e651e0620800000000000000
+      internalID: 2742152786799774712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9be9bfa96c4fd00800000000000000
+      internalID: 1005646985759209930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_86
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5185a7e7ac98e90800000000000000
+      internalID: -7022859499340294670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab648b18b3b531a0800000000000000
+      internalID: -6830355656520471645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c23f46235ad0f0800000000000000
+      internalID: -1091468535681332830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09286652d80fb4ce0800000000000000
+      internalID: -1419776768496729456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_90
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea94245473e4f7d0800000000000000
+      internalID: -2885431372470248721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_91
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8a491da34a3640800000000000000
+      internalID: 5060431542036892716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_92
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4083ce09328980800000000000000
+      internalID: -8538199207968748526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_93
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c568a63e2321fd40800000000000000
+      internalID: 5616308891700192708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30bb6f6a908f25d0800000000000000
+      internalID: -3085105818942853058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_95
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1add35edcf3c60800000000000000
+      internalID: 7800179464097897878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_96
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0f98501d03c7870800000000000000
+      internalID: 8681867855962697973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_97
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 117
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8aebeb6302be790800000000000000
+      internalID: -7499865334954940167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f33f35a5d550f00800000000000000
+      internalID: 1082373927989362587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_99
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8119ce323a178450800000000000000
+      internalID: 6090865824145936782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_100
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce239ef2e831c50800000000000000
+      internalID: 6634803012473908412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_101
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7290abce8ecb95900800000000000000
+      internalID: 673777327858649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e682c2e5eed810800000000000000
+      internalID: 1792122463829024956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de91e92f2d090260800000000000000
+      internalID: 7064191986724609750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_104
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0549d03f919b6eda0800000000000000
+      internalID: -5915837539401493424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1b3fed81798270800000000000000
+      internalID: 8253252646551100878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_106
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a56127699f9608a0800000000000000
+      internalID: -6339203944268339802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_107
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ca6db1ef2d4280800000000000000
+      internalID: -9057530628980162232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8790c3c7be651c0800000000000000
+      internalID: -4515162657576617751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d39034001b9fe0b0800000000000000
+      internalID: -5697164510508313646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_110
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89611920b72210380800000000000000
+      internalID: -9006879868044896616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_111
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 78
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011e757e393927a0800000000000000
+      internalID: -6401522454908497651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5bae8a1ee491b0800000000000000
+      internalID: -5650629834612974665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_113
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02991227a6c58b1a0800000000000000
+      internalID: -6793578425637299936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_114
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b818ae1364323e0800000000000000
+      internalID: -2079741422713336967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_115
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aaedc8ecb1852e0800000000000000
+      internalID: -2136927449246684658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_116
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0adae0c50248ed0800000000000000
+      internalID: -2412767920608403263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_117
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a423904490c9c4e0800000000000000
+      internalID: -1960824419772062557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_118
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600fba511494c050800000000000000
+      internalID: 5819939420727345260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_119
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daa48ca0897f6200800000000000000
+      internalID: 175492504047889112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67e0a7379f73930800000000000000
+      internalID: 4123038258245301932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_121
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85658d96907f9730800000000000000
+      internalID: 4008045985573201290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_122
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792ffbf760b97900800000000000000
+      internalID: 682770779179264383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_123
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ed29f58984f5b0800000000000000
+      internalID: -5335488450023003651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_124
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c08eb4532d30fe0800000000000000
+      internalID: -1223903547366044564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_125
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 39
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c40d984f511ac0800000000000000
+      internalID: -3886220237967408864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627a730f9d97a73c0800000000000000
+      internalID: -4361039312209860826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_127
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a8d8eb1f2f7740800000000000000
+      internalID: 5151888295652271563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_128
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0deb4dac46c6100800000000000000
+      internalID: 102567713838125217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_129
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a90aa4e7a83c090800000000000000
+      internalID: -8015410636766799242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_130
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6da3ab76f09b540800000000000000
+      internalID: 5024063797488965373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_131
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c19b6bf6a054b1e0800000000000000
+      internalID: -2183031241254923838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_132
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99eecb077400d4d0800000000000000
+      internalID: -3111982433167283814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_133
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac010ca5728a798a0800000000000000
+      internalID: -6298380666874621750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Pedestal Animation_134
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb2e80ea89be3e0800000000000000
+      internalID: -2023355734332097545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
