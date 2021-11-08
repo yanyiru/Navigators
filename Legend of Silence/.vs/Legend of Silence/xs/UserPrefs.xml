@@ -1,19 +1,18 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{EAAAE9C2-71D4-C206-4C91-CB25619B08FE}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pedestal.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovementwithAnim.cs" Line="68" Column="4" />
-      <File FileName="Assets/Scripts/Pedestal.cs" Line="32" Column="3" />
+      <File FileName="Assets/Scripts/ThroneRoom.cs" Line="26" Column="107" />
+      <File FileName="Assets/Scripts/Pedestal.cs" Line="41" Column="46" />
       <File FileName="Assets/Scripts/WeaponsRack.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Legend of Silence" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="Assets" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="Pedestal.cs" selected="True" />
-                </Node>
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Pedestal.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -23,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a04f59b3-65d0-4996-87b3-7921b136925c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="34f3afaf-c5c1-4ede-b55f-5a39352aff72" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

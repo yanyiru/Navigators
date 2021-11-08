@@ -10,9 +10,10 @@ public class Pedestal : MonoBehaviour
 	public Sprite PWCrown;
 	private Animator animator;
 	private float counter;
-	private bool counterCheck;
+	public bool counterCheck;
 	private bool changedTwice;
-	
+	public bool pedestalGone;
+
 
 	// Start is called before the first frame update
 	void Start()
@@ -23,6 +24,8 @@ public class Pedestal : MonoBehaviour
 		counter = 0.0f;
 		counterCheck = false;
 		changedTwice = GameObject.Find("Weapons Rack").GetComponent<WeaponsRack>().changedTwice;
+		pedestalGone = false;
+
 	}
 
 	// Update is called once per frame
@@ -35,10 +38,17 @@ public class Pedestal : MonoBehaviour
 			{
 				counter++;
 			}
-			if (counter > 1370)
-			{
-				Destroy(gameObject);
+			if (animator.GetCurrentAnimatorStateInfo(9).normalizedTime > 1)
+            {
+				pedestalGone = true;
+				gameObject.GetComponent<Renderer>().enabled = false;
+				gameObject.GetComponent<BoxCollider2D>().enabled = false;
 			}
+
+			//if (counter > 1200)
+			//{
+				
+			//}
 			if (Input.GetMouseButtonDown(1))
 			{
 				Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
